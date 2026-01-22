@@ -11,3 +11,4 @@ Notes and usage details for soketi-app-manager-filament.
 - add a note about the defaults
 - add a note about the defaults
 - clarify the setup steps
+- clarify the setup steps
